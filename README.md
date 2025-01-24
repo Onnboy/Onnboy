@@ -1,5 +1,5 @@
 ## Hi there 👋 
-Me chamo André Messias 🐧 Entusiasta e Programador Fullstack e CyberSecurity
+Meu nome é André, Entusiasta e Programador Fullstack e CyberSecurity 🐧
 
 - 🌱 Atualmente estou aprendendo tudo sobre := Python, Banco de dados, Machine learning e Arduino(IoT's)
 - 🎯 Cursos em andamento :=
