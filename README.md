@@ -19,8 +19,7 @@ Meu nome é André, Entusiasta e Programador Fullstack e CyberSecurity 🐧
     <img align="center" alt="Debian" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg">
     <img align="center" alt="Ubuntu" height="60" width="50" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
     <img align="center" alt="Git" height="60" width="50" src="https://img.icons8.com/color/452/git.png">
-    <img align="center" alt="GitHub Logo" height="60" width="50"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+    <img align="center" alt="GitHub Logo" height="60" width="50" src="https://github.com/fluidicon.png">
 </div>
 
 <div class="contact">
