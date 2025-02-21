@@ -25,9 +25,9 @@ Meu nome é André, Entusiasta e Programador Fullstack e CyberSecurity 🐧
 <div class="contact">
     <h2>Contate-me</h2>
     <a href="https://www.linkedin.com/in/andr%C3%A9-messias-bomfim-santa-rosa-22026b337/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" Meu LinkedIn">
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bomfimsantarosa@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu Gmail">
     </a>
 </div>
