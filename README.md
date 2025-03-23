@@ -8,7 +8,7 @@ Meu nome é André, Entusiasta e Programador Fullstack e CyberSecurity 🐧
 - 📖 Último livro lido / Ainda lendo :=
   * https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081
   * https://www.amazon.com.br/Black-Hat-Python-Programa%C3%A7%C3%A3o-pentesters/dp/8575228897 
-- ⚡️ Curiosidade := Grande admiração por Linus Torvalds, Sam Altman, Elon Musk e GHOST BR.
+- ⚡️ Curiosidade := Grande admiração por Linus Torvalds, Sam Altman, Elon Musk.
 
 <div class="skills-container">
     <h3>Skills de software</h3>
