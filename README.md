@@ -2,10 +2,9 @@
 Meu nome é André, Entusiasta e Programador Fullstack e CyberSecurity 🐧
 
 - 🌱 Atualmente estou aprendendo tudo sobre := Python, Banco de dados, Machine learning e Arduino(IoT's)
-- 🎯 Cursos/Roadmap em andamento :=
+- 🎯 Cursos em andamento :=
   * Curso Programação Full Stack IA Infinity School / 13 meses (presenciais / EAD | leitura e atividade pratica)
   * https://ead.estudar.org.br/c/cc50-o-curso-de-ciencia-da-computacao-de-harvard-no-brasil/ 11 semanas := 2.5 meses (leitura / atividade prática)
-  * <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67ed6e5ad3017ef47df54c8a?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
 - 📖 Último livro lido / Ainda lendo :=
   * https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081
   * https://www.amazon.com.br/Black-Hat-Python-Programa%C3%A7%C3%A3o-pentesters/dp/8575228897 
