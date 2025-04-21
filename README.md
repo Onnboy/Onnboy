@@ -15,9 +15,6 @@ Meu nome é André, Entusiasta e Programador Fullstack e CyberSecurity 🐧
     <img align="center" alt="Linux" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Python" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="MySQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Kali-Linux" height="60" width="50" src="https://www.kali.org/images/kali-logo.svg">
-    <img align="center" alt="Debian" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg">
-    <img align="center" alt="Ubuntu" height="60" width="50" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
     <img align="center" alt="Git" height="60" width="50" src="https://img.icons8.com/color/452/git.png">
     <img align="center" alt="GitHub Logo" height="60" width="50" src="https://github.com/fluidicon.png">
 </div>
