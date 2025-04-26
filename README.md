@@ -5,6 +5,7 @@ Meu nome é André, Entusiasta e Programador Fullstack e CyberSecurity 🐧
 - 🎯 Cursos em andamento :=
   * Curso Programação Full Stack IA Infinity School / 13 meses (presenciais / EAD | leitura e atividade pratica)
   * https://ead.estudar.org.br/c/cc50-o-curso-de-ciencia-da-computacao-de-harvard-no-brasil/ 11 semanas := 2.5 meses (leitura / atividade prática)
+  * Curso básico 70H #NetGamesLatam_Fundamentos de Redes com Packet Tracer(Cisco Net Academy)
 - 📖 Último livro lido / Ainda lendo :=
   * https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081
   * https://www.amazon.com.br/Black-Hat-Python-Programa%C3%A7%C3%A3o-pentesters/dp/8575228897 
