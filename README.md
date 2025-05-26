@@ -1,4 +1,4 @@
-## Hi 👋 
+## Hi there 👋 
 Meu nome é André, Entusiasta e Programador Fullstack e CyberSecurity 🐧
 
 - 🌱 Atualmente estou aprendendo tudo sobre := Python, Banco de dados, Machine learning e Arduino(IoT's)
