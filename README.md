@@ -24,7 +24,7 @@ Meu nome é André, Entusiasta e Programador Fullstack e CyberSecurity 🐧
 </div>
 <div>
     <h3>Feitos no Tryhackme(beginner)</h3>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0nnb0y.png" alt="Your Image Badge" /> 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0nnb0y.png" alt="Your Image Badge" />
 </div>
 
 <div class="contact">
